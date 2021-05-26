@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sasha
+- 👀 I’m interested in Golang and Soft-skills
+- 🌱 I’m currently learning German
+- 💞️ I’m looking to collaborate on `Go`
